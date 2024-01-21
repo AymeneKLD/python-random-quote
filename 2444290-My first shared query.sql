@@ -1,1 +1,1 @@
-inss
+ins
