@@ -1,1 +1,1 @@
-inser
+insert
