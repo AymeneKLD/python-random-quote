@@ -1,1 +1,1 @@
-CREATE DATABASE databasename;
+CREATE DATABASE databasename
