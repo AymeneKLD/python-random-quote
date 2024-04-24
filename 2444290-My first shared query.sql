@@ -2,5 +2,6 @@ create CREATE DATABASE
     aymene
 create table members 
     ( 
-        id 
+        id primary;
+
     )
