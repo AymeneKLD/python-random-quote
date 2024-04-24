@@ -5,5 +5,5 @@ create table members
         id primary;
         names;
         phone number;
-        spec-
+        spec_num foreign;
     )
