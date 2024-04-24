@@ -4,5 +4,6 @@ create table members
     ( 
         id primary;
         names;
-        phone number
+        phone number;
+        spec-
     )
