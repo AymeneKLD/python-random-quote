@@ -1,5 +1,5 @@
 create CREATE DATABASE
-    aymene
+    spec
 create table members 
     ( 
         id primary;
