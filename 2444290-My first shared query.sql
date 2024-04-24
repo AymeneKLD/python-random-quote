@@ -9,5 +9,6 @@ create table members
     )
 create table spec 
     {
-        spec_
+        spec_num primary;
+        num_of 
     }
