@@ -1,3 +1,6 @@
 create CREATE DATABASE
     aymene
-create t
+create table members 
+    ( 
+        id 
+    )
