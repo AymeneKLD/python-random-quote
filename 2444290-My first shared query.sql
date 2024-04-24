@@ -7,4 +7,7 @@ create table members
         phone number;
         spec_num foreign;
     )
-create table spec
+create table spec 
+    {
+        spec_
+    }
