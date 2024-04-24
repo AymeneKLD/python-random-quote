@@ -1,4 +1,4 @@
-create CREATE DATABASE
+create DATABASE
     spec
 create table members 
     ( 
