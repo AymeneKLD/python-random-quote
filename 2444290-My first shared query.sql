@@ -3,5 +3,6 @@ create CREATE DATABASE
 create table members 
     ( 
         id primary;
-        
+        names;
+        phone number
     )
