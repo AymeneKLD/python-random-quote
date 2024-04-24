@@ -10,5 +10,5 @@ create table members
 create table spec 
     {
         spec_num primary;
-        num_of 
+        num_of_students;
     }
