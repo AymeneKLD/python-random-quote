@@ -3,5 +3,5 @@ create CREATE DATABASE
 create table members 
     ( 
         id primary;
-
+        
     )
