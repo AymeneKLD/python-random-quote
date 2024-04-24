@@ -1,2 +1,3 @@
-CREATE DATABASE
+create CREATE DATABASE
     aymene
+create t
