@@ -1,8 +1,8 @@
 create table members 
     ( 
         id INT Primary,
-        names ,
-        phone number,
+        names VARCHAR(50),
+        phone number NU,
         spec_num foreign,
     );
 create table spec 
