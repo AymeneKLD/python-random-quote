@@ -4,4 +4,4 @@ CREATE TABLE Students
     Name varchar (20),
     mark DECIMAL(4,2)
 );
-INSERT INTO spec VALUES(1, ay)
+INSERT INTO spec VALUES(1, 'Aymene')
