@@ -7,6 +7,6 @@ create table members
     );
 create table spec 
     {
-        spec_num primary;
-        num_of_students;
+        spec_num primary,
+        num_of_students,
     }
