@@ -1,1 +1,1 @@
-INSERT INTO spec VA
+INSERT INTO spec VALUES()
