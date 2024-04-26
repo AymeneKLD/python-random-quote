@@ -2,8 +2,8 @@ create table members
     ( 
         id INT Primary,
         names VARCHAR(50),
-        phone number NU,
-        spec_num foreign,
+        phone number INT,
+        spec_num INT foreign,
     );
 create table spec 
     {
