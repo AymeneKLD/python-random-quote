@@ -1,5 +1,5 @@
 CREATE TABLE Students
 (
-    st
+    st_id INT PRIMARY KEY
 )
 INSERT INTO spec VALUES()
