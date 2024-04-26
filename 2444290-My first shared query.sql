@@ -5,7 +5,7 @@ create table members
         names;
         phone number;
         spec_num foreign;
-    #)
+    )
 #create table spec 
  #   {
   #      spec_num primary;
