@@ -8,5 +8,3 @@ INSERT INTO Students VALUES(1, 'Aymene', 19.5);
 DESCRIBE Students;
 SELECT * FROM Students;
 DROP TABLE members;
-CREATE TABLE members;
-SHOW TABLES;
