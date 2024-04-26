@@ -1,6 +1,6 @@
 create table members 
     ( 
-        id primary;
+        id Primary;
         names;
         phone number;
         spec_num foreign;
