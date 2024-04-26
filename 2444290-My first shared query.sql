@@ -1,4 +1,4 @@
-create DATABASE spec;
+CREATE DATABASE spec;
 #create table members 
  #   ( 
   #      id primary;
