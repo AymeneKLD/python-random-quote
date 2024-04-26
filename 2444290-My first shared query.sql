@@ -5,4 +5,4 @@ CREATE TABLE Students
     mark DECIMAL(4,2)
 );
 INSERT INTO Students VALUES(1, 'Aymene', 19.5);
-DESCRIBE Studnets
+DESCRIBE Students;
