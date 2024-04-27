@@ -17,3 +17,4 @@ CREATE TABLE first AS SELECT * FROM Students LIMIT 1;
 SELECT * FROM first;
 SELECT * FROM Students;
 DELETE FROM Students WHERE st_id = 4;
+DELETE FROM first ;
