@@ -1,9 +1,8 @@
 CREATE TABLE Students
 (
     st_id INT PRIMARY KEY,
-    Name CHAR (20),
+    Name CHAR(20),
     mark DECIMAL(4,2)
-    tst 
 );
 INSERT INTO Students VALUES(1, 'Aymene', 19.5);
 DESCRIBE Students;
