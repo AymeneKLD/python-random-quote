@@ -9,5 +9,5 @@ DESCRIBE Students;
 SELECT * FROM Students;
 DROP TABLE members;
 SHOW DATABASES;
-DROP D
+DROP DATABASE mysql;
 USE sys;
