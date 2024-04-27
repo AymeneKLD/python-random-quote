@@ -9,4 +9,5 @@ DESCRIBE Students;
 SELECT * FROM Students;
 DROP TABLE members;
 SHOW DATABASES;
+DROP D
 USE sys;
