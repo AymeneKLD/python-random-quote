@@ -16,4 +16,4 @@ INSERT INTO Students VALUES(2,'ramy', 17.23),(4, 'maroua', 34.45);
 CREATE TABLE first AS SELECT * FROM Students LIMIT 1;
 SELECT * FROM first;
 SELECT * FROM Students;
-DE
+DELETE FROM Stu
